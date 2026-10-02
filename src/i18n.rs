@@ -368,6 +368,7 @@ mod tests {
             assert_eq!(Locale::German.liked_song_count(count), german);
         }
     }
+
     #[test]
     fn short_counts_are_localized_without_parsing_complete_phrases() {
         assert_eq!(Locale::German.song_count(2), "2 Songs");
