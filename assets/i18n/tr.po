@@ -38,7 +38,7 @@ msgstr "Çalma Listesi"
 #: src/ui/collection.rs:1865 src/ui/home.rs:49 src/ui/keys.rs:258
 #: src/ui/winamp/playlist.rs:653
 msgid "Liked Songs"
-msgstr "Beğenilen Şarkılar"
+msgstr "Beğenilenler"
 
 #: src/ui/sidebar.rs:339
 msgid "Library order"
@@ -236,12 +236,12 @@ msgstr "Bir şarkı, albüm veya çalma listesi seçin"
 #: src/ui/player_bar.rs:537 src/ui/widgets.rs:560 src/ui/widgets.rs:786
 #: src/ui/widgets.rs:1684
 msgid "Remove from Liked Songs"
-msgstr "Beğenilen Şarkılar'dan kaldır"
+msgstr "Beğenilenler'den kaldır"
 
 #: src/ui/player_bar.rs:543 src/ui/widgets.rs:563 src/ui/widgets.rs:789
 #: src/ui/widgets.rs:1686
 msgid "Save to Liked Songs"
-msgstr "Beğenilen Şarkılar'a kaydet"
+msgstr "Beğenilenler'e kaydet"
 
 #: src/ui/player_bar.rs:625 src/ui/player_bar.rs:632 src/ui/collection.rs:260
 msgid "Shuffle"
@@ -822,11 +822,11 @@ msgstr "Kitaplığından kaldırıldı"
 
 #: src/app.rs:5840
 msgid "Added to Liked Songs"
-msgstr "Beğenilen Şarkılar'a eklendi"
+msgstr "Beğenilenler'e eklendi"
 
 #: src/app.rs:5842
 msgid "Removed from Liked Songs"
-msgstr "Beğenilen Şarkılar'dan kaldırıldı"
+msgstr "Beğenilenler'den kaldırıldı"
 
 #: src/app.rs:5844
 msgid "Following artist"
