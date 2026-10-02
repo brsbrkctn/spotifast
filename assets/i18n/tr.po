@@ -1,3 +1,5 @@
+# Turkish translation of Spotifast.
+# Distributed under the same MIT license as Spotifast.
 #
 msgid ""
 msgstr ""
